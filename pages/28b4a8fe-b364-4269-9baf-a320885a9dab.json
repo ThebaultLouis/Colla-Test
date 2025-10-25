@@ -1,0 +1,45 @@
+{
+  "object": "page",
+  "id": "28b4a8fe-b364-4269-9baf-a320885a9dab",
+  "created_time": "2025-10-25T22:34:54.424Z",
+  "last_edited_time": "2025-10-25T22:34:54.424Z",
+  "created_by": null,
+  "last_edited_by": null,
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "workspace",
+    "workspace": true
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": null,
+  "public_url": null,
+  "title": "A",
+  "content": ""
+}
