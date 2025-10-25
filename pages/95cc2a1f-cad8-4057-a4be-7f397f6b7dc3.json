@@ -1,0 +1,22 @@
+{
+  "object": "page",
+  "id": "95cc2a1f-cad8-4057-a4be-7f397f6b7dc3",
+  "created_time": "2025-10-25T21:29:56.711Z",
+  "last_edited_time": "2025-10-25T21:29:56.711Z",
+  "created_by": null,
+  "last_edited_by": null,
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "workspace",
+    "workspace": true
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {},
+  "url": null,
+  "public_url": null,
+  "title": "Sans titre",
+  "content": "",
+  "isDatabase": false
+}
