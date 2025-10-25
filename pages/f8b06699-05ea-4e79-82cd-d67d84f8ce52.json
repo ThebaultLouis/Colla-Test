@@ -2,9 +2,15 @@
   "id": "f8b06699-05ea-4e79-82cd-d67d84f8ce52",
   "title": "Sans titre",
   "content": "",
-  "properties": {},
+  "properties": {
+    "prop_1761425775401": {
+      "name": "A",
+      "type": "text",
+      "value": "A"
+    }
+  },
   "isDatabase": false,
   "parentId": "ee9fc8ae-1aad-491a-8b90-bf22298a1c67",
   "createdAt": "2025-10-25T20:02:52.857Z",
-  "updatedAt": "2025-10-25T20:02:52.858Z"
+  "updatedAt": "2025-10-25T20:56:18.029Z"
 }
