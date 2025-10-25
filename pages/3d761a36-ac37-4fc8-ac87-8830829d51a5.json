@@ -21,7 +21,7 @@
         {
           "type": "text",
           "text": {
-            "content": "Sans titre",
+            "content": "Sans titre 2",
             "link": null
           },
           "annotations": {
@@ -32,7 +32,7 @@
             "code": false,
             "color": "default"
           },
-          "plain_text": "Sans titre",
+          "plain_text": "Sans titre 2",
           "href": null
         }
       ]
@@ -40,6 +40,6 @@
   },
   "url": null,
   "public_url": null,
-  "title": "Sans titre",
+  "title": "Sans titre 2",
   "content": ""
 }
