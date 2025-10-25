@@ -7,10 +7,15 @@
       "name": "A",
       "type": "text",
       "value": "A"
+    },
+    "prop_1761426375508": {
+      "name": "A",
+      "type": "text",
+      "value": ""
     }
   },
   "isDatabase": false,
   "parentId": "ee9fc8ae-1aad-491a-8b90-bf22298a1c67",
   "createdAt": "2025-10-25T20:02:52.857Z",
-  "updatedAt": "2025-10-25T20:56:18.029Z"
+  "updatedAt": "2025-10-25T21:06:20.433Z"
 }
