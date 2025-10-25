@@ -2,7 +2,13 @@
   "id": "3670ea2e-462d-47df-8650-9f4705bd03ae",
   "title": "Nouvelle base de données",
   "content": "",
-  "properties": {},
+  "properties": {
+    "prop_1761427122953": {
+      "name": "A",
+      "type": "text",
+      "value": ""
+    }
+  },
   "isDatabase": true,
   "parentId": null,
   "icon": null,
@@ -10,5 +16,5 @@
   "archived": false,
   "inTrash": false,
   "createdAt": "2025-10-25T21:18:31.110Z",
-  "updatedAt": "2025-10-25T21:18:31.110Z"
+  "updatedAt": "2025-10-25T21:18:42.962Z"
 }
