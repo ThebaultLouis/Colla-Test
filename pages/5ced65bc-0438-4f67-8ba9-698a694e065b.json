@@ -1,0 +1,46 @@
+{
+  "object": "page",
+  "id": "5ced65bc-0438-4f67-8ba9-698a694e065b",
+  "created_time": "2025-10-25T21:57:33.343Z",
+  "last_edited_time": "2025-10-25T21:57:33.343Z",
+  "created_by": null,
+  "last_edited_by": null,
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "workspace",
+    "workspace": true
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nouvelle base de données",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nouvelle base de données",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": null,
+  "public_url": null,
+  "title": "Nouvelle base de données",
+  "content": "",
+  "isDatabase": true
+}
