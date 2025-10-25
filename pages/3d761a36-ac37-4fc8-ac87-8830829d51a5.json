@@ -36,6 +36,29 @@
           "href": null
         }
       ]
+    },
+    "A": {
+      "id": "prop_1761432229690",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A",
+          "href": null
+        }
+      ]
     }
   },
   "url": null,
